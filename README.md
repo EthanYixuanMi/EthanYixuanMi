@@ -20,7 +20,7 @@ For more details about my work and projects, feel free to explore my repositorie
 
 ## 📚 Research & Publications
 
-I'm actively involved in research focused on computer vision and machine learning.  
+I'm actively involved in research focused on **computer vision** and **machine learning**.  
 You can find my publications and research outcomes on my **[ORCID profile](https://orcid.org/0009-0004-8745-6824)**.
 
 ## 📊 Languages I've Used Across My Projects
