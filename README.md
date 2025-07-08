@@ -6,7 +6,7 @@
 
 ---
 
-🔍 I'm a passionate learner and developer currently exploring the intersection of **deep learning**, **systems engineering**, and **open-source software**.  
+🔍 I'm a passionate learner and developer currently exploring the intersection of **computer vision**, **machine learning**, and **software engineering**.  
 My interests range from neural networks to backend systems and deployment.
 
 ---
@@ -17,11 +17,9 @@ My interests range from neural networks to backend systems and deployment.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYixuanMi&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
-> This shows the proportion of languages I've used in my public projects.
-
 ---
 
-## 🧠 Technologies & Topics That Excite Me
+## 🧠 Interested Technologies 
 
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -34,11 +32,9 @@ My interests range from neural networks to backend systems and deployment.
   <img src="https://img.shields.io/badge/GAN-GenerativeModels-blueviolet?style=for-the-badge" />
 </p>
 
-> I'm especially drawn to neural architectures like **LSTMs** and **GANs**, and enjoy working with frameworks like **PyTorch** and **TensorFlow** on Linux environments.
-
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EthanYixuanMi&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -49,13 +45,6 @@ My interests range from neural networks to backend systems and deployment.
 </p>
 
 ---
-
-## 🌱 A Bit More About Me
-
-- 🔭 I’m currently exploring **AI model deployment**, **cloud-native tools**, and **research workflows**  
-- 🌱 I’m learning more about **Docker**, **CI/CD**, and **MLOps practices**  
-- 💬 I enjoy writing clean, reproducible code and tinkering with systems  
-- 📫 You can reach me at: ethanmi.yixuan@gmail.com
 
 ---
 
