@@ -6,7 +6,7 @@
 
 ## 🔍 About Me
 
-I'm a Computer Science student and passionate developer exploring the intersection of computer vision, machine learning, and software engineering.
+I'm a Computer Science student passionate about AI, computer vision, machine learning, and software engineering.
 
 I'm currently gaining industry experience through an internship (see my LinkedIn profile for details) while also conducting research in the fields of **uncertainty-aware planning** (both aleatoric & epistemic), **medical report generation**, and **survival data analysis**.
 
@@ -14,14 +14,14 @@ Previously, I've worked on projects involving **Generative Adversarial Networks 
 
 I also love working on the software engineering side of things — from backend systems to deploying AI models in production. I enjoy projects that bridge the gap between AI research and real-world applications, and I'm always excited to learn and take on new challenges.
 
-Currently, I'm also learning **XGBoost**!
+Currently, I'm also learning **XGBoost**, and deepening my understanding of interpretable ML models.
 
 For more details about my work and projects, feel free to explore my repositories below or connect with me on LinkedIn!
 
 ## 📚 Research & Publications
 
-I'm actively involved in research focused on computer vision and NLP.  
-You can find any publications and research outcomes on my **[ORCID profile](https://orcid.org/0009-0004-8745-6824)**.
+I'm actively involved in research focused on computer vision and machine learning.  
+You can find my publications and research outcomes on my **[ORCID profile](https://orcid.org/0009-0004-8745-6824)**.
 
 ## 📊 Languages I've Used Across My Projects
 
