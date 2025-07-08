@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yixuan Mi</h1>
+<h1 align="center">Hi, I'm Yixuan Mi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;AI%2C+Deep+Learning+%26+Systems+Technology;Python%2C+Linux%2C+Java%2C+TensorFlow%2C+PyTorch" alt="Typing SVG" />
@@ -25,7 +25,7 @@ You can find any publications and research outcomes on my **[ORCID profile](http
 
 ## 📊 Languages I've Used Across My Projects
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanYixuanMi&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
