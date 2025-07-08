@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yixuan Mi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Welcome+to+my+GitHub+profile!;AI%2C+Machine+Learning%2C+Software+Engineering;Python%2C+PyTorch%2C+XGBoost%2C+TensorFlow%2C+LSTM;Linux%2C+Java%2C+Scala%2C+Maven" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Welcome+to+my+GitHub+profile!;AI%2C+Machine+Learning%2C+Software+Engineering;Computer+Vision%2C+Survival+Data+Analysis%2C+Sentiment+Analysis%2C+NLP;Python%2C+PyTorch%2C+XGBoost%2C+TensorFlow%2C+LSTM;Linux%2C+Java%2C+Scala%2C+Maven" alt="Typing SVG" />
 </p>
 
 ## 🔍 About Me
