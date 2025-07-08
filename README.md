@@ -33,7 +33,7 @@ You can find any publications and research outcomes on my **[ORCID profile](http
 
 My skill set spans multiple areas of tech. Here are some of the languages, frameworks, and tools I work with or am interested in:
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -47,11 +47,11 @@ My skill set spans multiple areas of tech. Here are some of the languages, frame
 
 ## 📈 Yixuan Mi's GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=EthanYixuanMi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanYixuanMi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
@@ -61,6 +61,6 @@ My skill set spans multiple areas of tech. Here are some of the languages, frame
 - **LinkedIn**: [Yixuan Mi](https://www.linkedin.com/in/yixuan-mi)  
 - **ORCID**: [0009-0004-8745-6824](https://orcid.org/0009-0004-8745-6824)
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=EthanYixuanMi&style=for-the-badge" alt="Profile Views" />
 </p>
