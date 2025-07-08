@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Yixuan Mi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;Researching+%2B+Building+with+AI%2C+Deep+Learning+and+Systems+Tech;Python+%7C+Linux+%7C+Java+%7C+TensorFlow+%7C+PyTorch+%7C+GANs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;AI%2C+Deep+Learning+%26+Systems+Technology;Python%2C+Linux%2C+Java%2C+TensorFlow%2C+PyTorch" alt="Typing SVG" />
 </p>
 
 ## 🔍 About Me
 
 I'm a Computer Science student and passionate developer exploring the intersection of computer vision, machine learning, and software engineering.
 
-I'm currently gaining industry experience through an internship (see my LinkedIn profile for details) while also conducting research in the fields of computer vision, machine learning, and natural language processing (NLP). My interests range from building deep neural networks (I've worked with models like LSTMs) to developing cutting-edge generative models such as GANs (Generative Adversarial Networks).
+I'm currently gaining industry experience through an internship (see my LinkedIn profile for details) while also conducting research in the fields of **uncertainty-aware planning** (both aleatoric & epistemic), **medical report generation**, and **survival data analysis**.
+
+Previously, I've worked on projects involving **Generative Adversarial Networks (GANs)**, **LSTM models**, and **sentiment analysis**.
 
 I also love working on the software engineering side of things — from backend systems to deploying AI models in production. I enjoy projects that bridge the gap between AI research and real-world applications, and I'm always excited to learn and take on new challenges.
+
+Currently, I'm also learning **XGBoost**!
 
 For more details about my work and projects, feel free to explore my repositories below or connect with me on LinkedIn!
 
@@ -36,11 +40,12 @@ My skill set spans multiple areas of tech. Here are some of the languages, frame
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/LSTM-informational?style=for-the-badge" alt="LSTM" />
   <img src="https://img.shields.io/badge/GANs-Generative%20Adversarial%20Networks-blueviolet?style=for-the-badge" alt="GANs" />
+  <img src="https://img.shields.io/badge/XGBoost-00BFFF?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
 </p>
 
-## 📈 GitHub Stats
+## 📈 Yixuan Mi's GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EthanYixuanMi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -52,7 +57,7 @@ My skill set spans multiple areas of tech. Here are some of the languages, frame
 
 ## 📫 Get in Touch
 
-- **Email**: yixuanmi25@gmail.com  
+- **Email**: yixuanmi@gmail.com  
 - **LinkedIn**: [Yixuan Mi](https://www.linkedin.com/in/yixuan-mi)  
 - **ORCID**: [0009-0004-8745-6824](https://orcid.org/0009-0004-8745-6824)
 
