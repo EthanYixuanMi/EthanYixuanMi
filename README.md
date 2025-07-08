@@ -46,10 +46,6 @@ My interests range from neural networks to backend systems and deployment.
 
 ---
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EthanYixuanMi&style=for-the-badge" alt="Profile Views" />
 </p>
-
----
