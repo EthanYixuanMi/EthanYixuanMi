@@ -8,7 +8,7 @@
 
 I'm a Computer Science student passionate about AI, computer vision, machine learning, and software engineering.
 
-I'm currently gaining industry experience through an internship (see my LinkedIn profile for details) while also conducting research in the fields of **uncertainty-aware planning** (both aleatoric & epistemic), **medical report generation**, and **survival data analysis**.
+I'm currently gaining industry experience through internships (see my LinkedIn profile for details) while also conducting research in the fields of **uncertainty-aware planning** (both aleatoric & epistemic), **medical report generation**, and **survival data analysis**.
 
 Previously, I've worked on projects involving **Generative Adversarial Networks (GANs)**, **LSTM models**, and **sentiment analysis**.
 
