@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Yixuan Mi</h1>
+
 ## 🔍 About Me
 
 I'm a Computer Science student passionate about AI, computer vision, machine learning, and software engineering.
