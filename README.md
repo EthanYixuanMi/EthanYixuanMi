@@ -57,7 +57,7 @@ My skill set spans multiple areas of tech. Here are some of the languages, frame
 
 ## 📫 Get in Touch
 
-- **Email**: yixuanmi@gmail.com  
+- **Email**: yixuanmi25@gmail.com  
 - **LinkedIn**: [Yixuan Mi](https://www.linkedin.com/in/yixuanmi)  
 - **ORCID**: [0009-0004-8745-6824](https://orcid.org/0009-0004-8745-6824)
 
