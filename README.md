@@ -17,7 +17,7 @@ For more details about my work and projects, feel free to explore my repositorie
 ## 📚 Research & Publications
 
 I'm actively involved in research focused on **computer vision** and **machine learning**.  
-I'm actively participated in the student research days of my university, you can find them **[here](https://github.com/EthanYixuanMi/Student-Research-Day-Projects-in-WKU).**  
+I'm actively participated in the student research days of my university, you can find them **[here](https://github.com/EthanYixuanMi/Student-Research-Day-Projects-in-WKU)**.    
 You can find my publications and research outcomes on my **[ORCID profile](https://orcid.org/0009-0004-8745-6824)**.
 
 ## 📊 Languages I've Used Across My Projects
