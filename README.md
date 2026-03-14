@@ -2,22 +2,14 @@
 
 ## 🔍 About Me
 
-I'm a Computer Science student passionate about AI, computer vision, machine learning, and software engineering.
+I'm a junior student major in Computer Science.
 
-I'm currently gaining industry experience through internships (see my LinkedIn profile for details) while also conducting research in the fields of **uncertainty-aware planning** (both aleatoric & epistemic), **medical report generation**, and **survival data analysis**.
-
-Previously, I've worked on projects involving **Generative Adversarial Networks (GANs)**, **LSTM models**, and **sentiment analysis**.
-
-I also love working on the software engineering side of things — from backend systems to deploying AI models in production. I enjoy projects that bridge the gap between AI research and real-world applications, and I'm always excited to learn and take on new challenges.
-
-Currently, I'm also learning **XGBoost**, and deepening my understanding of interpretable ML models.
+I'm currently gaining industry experience through internships (see my LinkedIn profile for details) while also conducting research.
 
 For more details about my work and projects, feel free to explore my repositories below or connect with me on LinkedIn!
 
 ## 📚 Research & Publications
-
-I'm actively involved in research focused on **computer vision** and **machine learning**.  
-I'm actively participated in the student research days of my university, you can find them **[here](https://github.com/EthanYixuanMi/Student-Research-Day-Projects-in-WKU)**.    
+   
 You can find my publications and research outcomes on my **[ORCID profile](https://orcid.org/0009-0004-8745-6824)**.
 
 ## 📊 Languages I've Used Across My Projects
@@ -52,9 +44,6 @@ My skill set spans multiple areas of tech. Here are some of the languages, frame
   <img src="https://github-readme-stats.vercel.app/api?username=EthanYixuanMi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EthanYixuanMi&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ## 📫 Get in Touch
 
