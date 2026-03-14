@@ -50,7 +50,3 @@ My skill set spans multiple areas of tech. Here are some of the languages, frame
 - **Email**: yixuanmi25@gmail.com  
 - **LinkedIn**: [Yixuan Mi](https://www.linkedin.com/in/yixuanmi)  
 - **ORCID**: [0009-0004-8745-6824](https://orcid.org/0009-0004-8745-6824)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=EthanYixuanMi&style=for-the-badge" alt="Profile Views" />
-</p>
