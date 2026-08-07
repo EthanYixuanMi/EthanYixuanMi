@@ -2,7 +2,7 @@
 
 ## 🔍 About Me
 
-I'm a junior student major in Computer Science.
+I'm a senior student major in Computer Science.
 
 I'm currently gaining industry experience through internships (see my LinkedIn profile for details) while also conducting research.
 
