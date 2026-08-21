@@ -6,7 +6,7 @@ I'm a senior student major in Computer Science.
 
 I'm currently gaining industry experience through internships (see my LinkedIn profile for details) while also conducting research.
 
-For more details about my work and projects, feel free to explore my repositories below or connect with me on LinkedIn!
+For more details about my work and projects, feel free to explore my repositories below!
 
 ## 📚 Research & Publications
    
@@ -48,5 +48,4 @@ My skill set spans multiple areas of tech. Here are some of the languages, frame
 ## 📫 Get in Touch
 
 - **Email**: yixuanmi25@gmail.com  
-- **LinkedIn**: [Yixuan Mi](https://www.linkedin.com/in/yixuanmi)  
 - **ORCID**: [0009-0004-8745-6824](https://orcid.org/0009-0004-8745-6824)
