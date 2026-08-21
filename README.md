@@ -8,10 +8,6 @@ I'm currently gaining industry experience through internships (see my LinkedIn p
 
 For more details about my work and projects, feel free to explore my repositories below!
 
-## 📚 Research & Publications
-   
-You can find my publications and research outcomes on my **[ORCID profile](https://orcid.org/0009-0004-8745-6824)**.
-
 ## 📊 Languages I've Used Across My Projects
 
 <p align="left">
@@ -47,5 +43,4 @@ My skill set spans multiple areas of tech. Here are some of the languages, frame
 
 ## 📫 Get in Touch
 
-- **Email**: yixuanmi25@gmail.com  
-- **ORCID**: [0009-0004-8745-6824](https://orcid.org/0009-0004-8745-6824)
+- **Email**: yixuanmi25@gmail.com
