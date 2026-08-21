@@ -4,7 +4,7 @@
 
 I'm a senior student major in Computer Science.
 
-I'm currently gaining industry experience through internships (see my LinkedIn profile for details) while also conducting research.
+I'm currently gaining industry experience through internships while also conducting research.
 
 For more details about my work and projects, feel free to explore my repositories below!
 
